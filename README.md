@@ -18,3 +18,4 @@ Signatures taken from https://github.com/KibbeWater/CrabGameScripts
 
 - x64 Windows 7 <
 - No dependencies required
+- Visual Studio
