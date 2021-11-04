@@ -1,5 +1,7 @@
 # CrabGameCheats
 
+## [Download pre-compiled binary](https://github.com/e9x/CrabGameCheat/releases/tag)
+
 Signatures taken from https://github.com/KibbeWater/CrabGameScripts
 
 ## Features
