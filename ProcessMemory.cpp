@@ -46,5 +46,5 @@ int ProcessMemory::open() {
 	} while (Process32Next(snapshot, &entry));
 	
 	CloseHandle(snapshot);
-return ProcessStatus::NotFound;
+	return ProcessStatus::NotFound;
 }
