@@ -1,7 +1,3 @@
-#ifndef WIN32_LEAN_AND_MEAN
-#define WIN32_LEAN_AND_MEAN
-#endif
-
 #include "./ProcessModule.h"
 #include <TlHelp32.h>
 
